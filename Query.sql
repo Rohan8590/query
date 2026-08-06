@@ -2,7 +2,9 @@ WITH base_vehicle_data AS
 (
     SELECT
         Model,
-        Cost
+        Cost,
+        Color,
+        Type_Count
     FROM Vehicles
 )
  
