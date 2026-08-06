@@ -8,4 +8,4 @@ WITH base_vehicle_data AS
  
 SELECT *
 FROM base_vehicle_data
-WHERE Cost > 400000;
+WHERE Cost > 500000;
